@@ -1,0 +1,4 @@
+## Interface: 20504
+## Title: MacroHelper
+## Author: blink
+## Version: 1.0
