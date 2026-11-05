@@ -1,0 +1,9 @@
+## Interface: 11509, 16001
+## Title: Macro Helper
+## Notes: Builds macros (mouseover, cursor, startattack, modifiers) from a panel on the macro window.
+## Author: nsk
+## Version: 0.2.0
+## SavedVariables: MacroHelperDB
+
+Builder.lua
+UI.lua
